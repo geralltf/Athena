@@ -1,0 +1,10 @@
+^C:\PROJECTS\ATHENA_ENGINE\ATHENA\SFML-2.5.1\BIN\CMAKEFILES\5B625D5FEB1CB2490F8DB62EFE249CF4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/projects/athena_engine/athena/SFML-2.5.1 -BC:/projects/athena_engine/athena/SFML-2.5.1/bin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/projects/athena_engine/athena/SFML-2.5.1/bin/SFML.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

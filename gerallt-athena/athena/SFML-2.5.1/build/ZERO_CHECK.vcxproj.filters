@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\projects\athena_engine\athena\SFML-2.5.1\build\CMakeFiles\63cda64af53f549be7acfbc820e375c7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C37E0E8E-D013-3F34-99A9-4032111A6090}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
